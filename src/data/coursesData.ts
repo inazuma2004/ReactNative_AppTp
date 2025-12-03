@@ -1,0 +1,42 @@
+export const coursesData = [
+  {
+    id: '1',
+    name: 'Mathématiques',
+    description: 'Algèbre, géométrie et calcul',
+    professor: 'Dr. Ahmed Hassan',
+    room: '201',
+    time: '09:00 - 11:00',
+  },
+  {
+    id: '2',
+    name: 'Physique',
+    description: 'Mécanique et thermodynamique',
+    professor: 'Dr. Fatima Alaoui',
+    room: '105',
+    time: '11:30 - 13:30',
+  },
+  {
+    id: '3',
+    name: 'Chimie',
+    description: 'Réactions chimiques et stœchiométrie',
+    professor: 'Dr. Hassan Belaid',
+    room: '301',
+    time: '14:00 - 16:00',
+  },
+  {
+    id: '4',
+    name: 'Informatique',
+    description: 'Programmation et algorithmes',
+    professor: 'Dr. Mohamed Samir',
+    room: '402',
+    time: '16:30 - 18:30',
+  },
+  {
+    id: '5',
+    name: 'Anglais',
+    description: 'Communication et grammaire',
+    professor: 'Mme Sarah Williams',
+    room: '103',
+    time: '08:00 - 09:30',
+  },
+];
